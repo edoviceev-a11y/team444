@@ -1,4 +1,5 @@
 body{
+    display: flex;
     color: black;
     background-color: black;
     margin: 0;
